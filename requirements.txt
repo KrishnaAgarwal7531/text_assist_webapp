@@ -29,7 +29,7 @@ mdurl==0.1.2
 mediapipe==0.10.7
 numpy==1.26.1
 opencv-python==4.8.1.78
-opencv-contrib-python==4.8.1.78
+pip install opencv-python-headless==4.8.1.78
 packaging==23.2
 pandas==2.1.2
 Pillow==10.1.0
